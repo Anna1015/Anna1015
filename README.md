@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anna
-- 👀 I’m interested in Meachine Learning
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Recommender System
 
 <!---
